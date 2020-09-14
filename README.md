@@ -11,12 +11,13 @@
 😄 I’m a graduate engineer with a major in computer science; I contributed to [MarkUs](https://github.com/MarkUsProject/Markus) as part of my year-end project
 
 🔭 I’m a MOOC nerd, some of the most recent ones I completed are:
-- Cryptography I at Stanford University (2018)
+- Cryptography I at Stanford University (February 2018)
+- Acumen - Human Centered Design (March 2019)
 - upGrad - Java programming (June 2020)
 - Packt - the Java workshop (July 2020)
 
 👯 I’m interested in:
-- collaborating on open-source projects related (for example) to privacy or alternative mobile OSes
+- collaborating on open-source projects related, for example, to privacy or alternative mobile OSes
 - the wider Tech for Good ecosystem (bonus points if your org is a B-corp)
 
 <br />
@@ -24,7 +25,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Java" width="26px" src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
