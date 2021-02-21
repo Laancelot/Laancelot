@@ -15,6 +15,7 @@
 - Acumen - Human Centered Design (March 2019)
 - upGrad - Java programming (June 2020)
 - Packt - the Java workshop (July 2020)
+- Colibris - Parcous Numérique Ethique (December 2020)
 
 👯 I’m interested in:
 - collaborating on open-source projects related, for example, to privacy or alternative mobile OSes
