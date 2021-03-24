@@ -20,9 +20,7 @@
 👯 I’m interested in:
 - collaborating on open-source projects related, for example, to privacy or alternative mobile OSes
 - the wider Tech for Good ecosystem (bonus points if your org is a B-corp)
-
 <br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
