@@ -16,6 +16,7 @@
 - upGrad - Java programming (June 2020)
 - Packt - the Java workshop (July 2020)
 - Colibris - Parcous Numérique Ethique (December 2020)
+- FreeCodeCamp - Responsive Web Design (April 2021)
 
 👯 I’m interested in:
 - collaborating on open-source projects related, for example, to privacy or alternative mobile OSes
