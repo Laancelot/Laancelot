@@ -1,12 +1,12 @@
 ## Hi there, I'm Laancelot 👋
 
-### I'm a remote full-stack developer!
+### I'm a mobile developer in cybersecurity!
 
 📫 I ordered my first Ubuntu CD in the 90s (sadly, I don’t have it anymore)
 
 🌱 I started coding in 2011 on Notepad
 
-⚡  My favorite video games are: Minesweeper, Myst & Farming Simulator
+⚡ My favorite video games are: Minesweeper, Myst & Farming Simulator
 
 😄 I’m a graduate engineer with a major in computer science; I contributed to [MarkUs](https://github.com/MarkUsProject/Markus) as part of my year-end project
 
